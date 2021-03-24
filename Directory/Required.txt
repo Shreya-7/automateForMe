@@ -1,0 +1,13 @@
+Rename 
+- Movie folders
+- Actual MP4 for both movies and sitcoms
+- Season folders as SHOWS\d
+- Subtitle files & episodes as SHOWS\dE\d - EPNAME
+Check for subtitles
+Download subtitles into folders
+- Extract
+- Move up one directory
+- Delete zip and extra folder
+Delete unnecessary JPGs
+
+

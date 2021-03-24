@@ -1,0 +1,9 @@
+Topic Platform Link Duration Post_Class AS AR Test Activity Remarks Week_No
+Z Buffer Method's Algorithm; Scan Line Method & Algorithm, Cisco Webex; Google Classroom, NA, 100, Phone; Whatsapp, No, No, No, Self-Study, Effective, 7
+Illumination; Intro to Shading; Flat Shading, Zoom; Google Classroom, NA, 40, Phone; Whatsapp, Yes, Yes, No, Self-Study, Effective, 7
+Painter's Algorithm; Human Vision  and Colour; Numericals Solved on 2D Transformations, Zoom; Google Classroom, NA, 80, Phone; Mail; Whatsapp, No, No, No, Self-Study, Effective, 8
+Light and Color Model; Numericals Solved on Breshenham's Line Drawing Algorithm, Zoom; Google Classroom, NA, 40, Phone; Mail; Whatsapp, Yes, Yes, No, Self-Study, Effective, 8
+Cohen Sutherland Line Clipping Algorithm; Cyrus Beck Line clipping Algorithm; Sutherland Hodgman Polygon Clipping Algorithm with Numericals, Zoom; Google Classroom, NA, 80, Phone; Mail; Whatsapp, No, No, No, Self-Study, Effective, 9
+Gourad Shading Model; Phong Shading Model, Zoom; Google Classroom, NA, 40, Mail; Whatsapp, No, No, No, Self-Study, Effective, 9
+Generation of Fractals; Geometric Fractrals; Some numericals solved on frame buffer and Raster scan system, Zoom; Google Classroom, NA, 40, Mail; Whatsapp, No, No, No, Self-Study, Effective, 10
+Clipping operation; 3D transformation & viewing; Curve; Hidden Surfaces, Zoom; Google Classroom, NA, 80, Mail; Whatsapp, No, No, No, Self-Study, Effective, 11
