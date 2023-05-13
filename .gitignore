@@ -1,1 +1,4 @@
 test_movies
+.vscode
+venv
+.DS_Store

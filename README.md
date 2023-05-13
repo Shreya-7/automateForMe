@@ -17,3 +17,6 @@ This repository contains programs I created to automate a few simple everyday ta
 5. ## Guitar Tutorial Search:
    - Based on a given song and artist, opens guitar tutorials (tabs & chords) from Youtube channels, Youtube general results, and Ultimate Guitar.
    - [README file](https://github.com/Shreya-7/automateForMe/blob/master/Guitar/README.md)
+6. ## Subtitle Downloader:
+   - Downloads and extracts the subtitle file for a given movie.
+   - [README file](https://github.com/Shreya-7/automateForMe/blob/master/Subtitle/README.md)
