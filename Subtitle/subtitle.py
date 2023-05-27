@@ -4,6 +4,7 @@ import re
 import sys
 import zipfile
 import requests
+import pprint
 
 
 def get_movie_object(movie_name: str):
@@ -48,7 +49,7 @@ def download_and_save_subtitle(movie_name: str):
     english_subtitles.sort(key=lambda x: x['rating'], reverse=True)
 
     print("\nEnglish subtitles found:\n")
-    print(english_subtitles)
+    pprint.pprint(english_subtitles)
 
     # fetch the zip of the highest rated subtitle
     response = requests.get('https://yifysubtitles.ch/subtitle/' + english_subtitles[0]['name'] + '.zip')
